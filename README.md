@@ -3,6 +3,7 @@
 Currently looking for a position that helps me sharpen my skill and facilitates growth and comradery. 
 
 🛠️ Languages and Tools :
+
 -CSS 
 -HTML  
 -JavaScript  
