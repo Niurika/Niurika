@@ -4,7 +4,7 @@ Currently looking for a position that helps me sharpen my skill and facilitates 
 
 🛠️ Languages and Tools :
 
--CSS 
+-![image](https://user-images.githubusercontent.com/110379358/214472619-bc69f04e-7e71-477f-9017-8c74ccf15428.png) 
 -HTML  
 -JavaScript  
 -Python 
