@@ -1,6 +1,6 @@
 # Hello!!
 
-Currently looking for a position that will help me sharpen my skills and facilitates growth and comradery. 
+Currently looking for a position and eager to work with data.  
 
 🛠️ Languages and Tools :
 
